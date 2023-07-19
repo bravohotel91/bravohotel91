@@ -1,6 +1,6 @@
 ### Hey 👋, I'm Brandon Houseman AKA BravoHotel91
 
-**Father. Podcaster [@selfhostedshow](https://selfhosted.show/) podcast. Photographer. Tinkerer. Red Hatter.**
+**Tinkerer. Self-Hoster.**
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brandonhouseman)
 [![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/bhous1)
