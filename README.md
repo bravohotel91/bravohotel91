@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @bravohotel91.
-- 🌱 I’m currently learning Ansible and Terraform while enjoying the homelab I have built over many years.
+### Hey 👋, I'm BravoHotel91
 
-<!---
-bravohotel91/bravohotel91 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔭 I’m currently working towards developing my skills in IaC and DevOps.
+- Check my 🖋 [blog](http://blog.berzerkium.com/)
+
+### 📊 Stats
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bravohotel91&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=bravohotel91&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=bravohotel91&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=bravohotel91&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bravohotel91&theme=radical)
