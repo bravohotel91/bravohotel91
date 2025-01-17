@@ -1,4 +1,4 @@
-### 👋, I'm Brandon Houseman AKA bravohotel91
+### 👋, I'm bravohotel91
 
 **Tinkerer. Self-Hoster.**
 
